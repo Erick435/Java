@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Day2/BaristasChallenge"/>
+	<classpathentry kind="src" path="Day2/BankAccount"/>
+	<classpathentry kind="src" path="Day1/AlfredAutomatedBot"/>
+	<classpathentry kind="src" path="Day1/CafeBusinessLogic"/>
+	<classpathentry kind="src" path="Day1/CafeJava"/>
+	<classpathentry kind="src" path="Day1/FirstJavaProgram"/>
+	<classpathentry kind="src" path="Day1/Practice1"/>
+	<classpathentry kind="src" path="Day1/Program1"/>
+	<classpathentry kind="src" path="Day1/Program2"/>
+	<classpathentry kind="src" path="Day2/Grocery"/>
+	<classpathentry kind="src" path="Day2/Movie"/>
+	<classpathentry kind="src" path="Day2/Orders_and_Items"/>
+	<classpathentry kind="src" path="Day3/lecture"/>
+	<classpathentry kind="src" path="Day3/lecture2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
